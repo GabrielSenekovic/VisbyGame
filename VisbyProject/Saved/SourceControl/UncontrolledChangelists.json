@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/My Files/Game Projects/Unreal Projects/VisbyProject/Content/2DTest.umap",
+				"F:/My Files/Game Projects/Unreal Projects/VisbyProject/Content/Input/NewInputMappingContext.uasset",
+				"F:/My Files/Game Projects/Unreal Projects/VisbyProject/Content/Input/PlayerInput.uasset",
+				"F:/My Files/Game Projects/Unreal Projects/VisbyProject/Content/VisbyGameMode.uasset",
+				"F:/My Files/Game Projects/Unreal Projects/VisbyProject/Content/SpriteMaterial.uasset",
+				"F:/My Files/Game Projects/Unreal Projects/VisbyProject/Content/Player.uasset",
+				"F:/My Files/Game Projects/Unreal Projects/VisbyProject/Content/Art/image.uasset",
+				"F:/My Files/Game Projects/Unreal Projects/VisbyProject/Content/Art/image_Sprite_0.uasset",
+				"F:/My Files/Game Projects/Unreal Projects/VisbyProject/Content/Art/image1.uasset"
+			]
+		}
+	]
+}
